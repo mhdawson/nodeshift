@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.5.1](https://www.github.com/nodeshift/nodeshift/compare/v8.5.0...v8.5.1) (2021-09-07)
+
+
+### Bug Fixes
+
+* package.json & package-lock.json to reduce vulnerabilities ([#592](https://www.github.com/nodeshift/nodeshift/issues/592)) ([cdd1ac8](https://www.github.com/nodeshift/nodeshift/commit/cdd1ac8eda6054b9cad4761e0d54855193ed4e95))
+* upgrade eslint-plugin-import from 2.23.4 to 2.24.0 ([#590](https://www.github.com/nodeshift/nodeshift/issues/590)) ([63ce7fd](https://www.github.com/nodeshift/nodeshift/commit/63ce7fd33828fc001c4527805938204404404d0a))
+* upgrade tape from 5.2.2 to 5.3.1 ([#589](https://www.github.com/nodeshift/nodeshift/issues/589)) ([89533a8](https://www.github.com/nodeshift/nodeshift/commit/89533a852d4da80883dfe87c7543913e063ab9df))
+* upgrade tar from 6.1.4 to 6.1.6 ([#587](https://www.github.com/nodeshift/nodeshift/issues/587)) ([f99fa8c](https://www.github.com/nodeshift/nodeshift/commit/f99fa8c9b9ef87415847af2654511c5cef152b32))
+
 ## [8.5.0](https://www.github.com/nodeshift/nodeshift/compare/v8.4.0...v8.5.0) (2021-08-23)
 
 
